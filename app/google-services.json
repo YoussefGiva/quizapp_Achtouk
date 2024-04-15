@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854735042838",
+    "project_id": "achtouk-f893a",
+    "storage_bucket": "achtouk-f893a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854735042838:android:d64df212485c62261b3837",
+        "android_client_info": {
+          "package_name": "com.example.quizapp_achtouk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6G2Y8wq-MmsdsONh3MwrnUjn2EDgBXkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
