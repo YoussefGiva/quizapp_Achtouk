@@ -10,18 +10,20 @@
     android:layout_marginRight="20dp"
     android:gravity="center">
     <TextView
+        android:id="@+id/quiz"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Quiz 1"
         android:textSize="25sp"
         android:textStyle="bold"
         />
 
     <ImageView
+        android:id="@+id/image"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:src="@drawable/q1"/>
     <TextView
+        android:id="@+id/qst1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="A cette intersection, je laisse la priorité à droite :"

@@ -10,11 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Base.Theme.Quizapp_Achtouk">
         <activity
+            android:name=".Quiz1"
+            android:exported="false" />
+        <activity
             android:name=".DynamicFetch"
             android:exported="false" />
         <activity
             android:name=".Score"
-            android:exported="false"></activity>
+            android:exported="false" />
         <activity
             android:name=".Quiz5"
             android:exported="false" />
@@ -26,9 +29,6 @@
             android:exported="false" />
         <activity
             android:name=".Quiz2"
-            android:exported="false" />
-        <activity
-            android:name=".Quiz1"
             android:exported="false" />
         <activity
             android:name=".Register"

@@ -19,7 +19,7 @@ public class Score extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_quiz6);
+        setContentView(R.layout.activity_score);
 
         // Initialize views
         tvScore = findViewById(R.id.tvScore);
